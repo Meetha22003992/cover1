@@ -5,11 +5,15 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the git repostitory
+
 ### Step 2:
+Code the html coding for creating the book cover using css and javascript
+
+### Step 3:
+Run the server
 
 ## Code:
-Include your HTML code here
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -129,7 +133,8 @@ Include your HTML code here
 ```
 
 ## Output:
-![OUTPUT1](static/images/output1.png)
+![Ex 06 screenshot](https://user-images.githubusercontent.com/119401038/214026281-ab8980e0-c40c-483e-9229-05a5cf0e9177.jpg)
+
 
 ## Result:
-Write your result
+Sucessfully created the book cover using html,css and javascript
